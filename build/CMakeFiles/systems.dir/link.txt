@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsystems.a CMakeFiles/systems.dir/src/systems.c.o
+/usr/bin/ranlib libsystems.a

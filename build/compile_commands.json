@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/fatnix/dblepnd/build",
+  "command": "/usr/bin/cc   -g -std=gnu99 -o CMakeFiles/integrators.dir/src/integrators.c.o -c /home/fatnix/dblepnd/c/src/integrators.c",
+  "file": "/home/fatnix/dblepnd/c/src/integrators.c"
+},
+{
+  "directory": "/home/fatnix/dblepnd/build",
+  "command": "/usr/bin/cc   -g -std=gnu99 -o CMakeFiles/systems.dir/src/systems.c.o -c /home/fatnix/dblepnd/c/src/systems.c",
+  "file": "/home/fatnix/dblepnd/c/src/systems.c"
+},
+{
+  "directory": "/home/fatnix/dblepnd/build",
+  "command": "/usr/bin/cc   -g -std=gnu99 -o CMakeFiles/main_c.dir/src/main.c.o -c /home/fatnix/dblepnd/c/src/main.c",
+  "file": "/home/fatnix/dblepnd/c/src/main.c"
+}
+]
